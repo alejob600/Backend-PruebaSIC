@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TestsicApplication<testsic>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.pruebasic.testsic.TestsicApplication",
+            "projectName": "testsic",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-TestsicApplication",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.pruebasic.testsic.TestsicApplication",
+            "args": ""
+        }
+    ]
+}
